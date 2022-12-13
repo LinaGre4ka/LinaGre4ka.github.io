@@ -498,6 +498,7 @@ h1 {
 }
 
 .button3 span {
+    width: 84px;
     font-family: DG_SB;
     font-weight: 600;
     font-size: 25px;
