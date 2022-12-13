@@ -35,12 +35,12 @@
 
 @font-face {
     font-family: LucidaBright_DB;
-    src: url("fonts/Lucida Bright Demibold.ttf"); 
+    src: url("fonts/LucidaBrightDemibold.ttf"); 
 }
 
 @font-face {
     font-family: LucidaBright_R;
-    src: url("fonts/ofont.ru_Lucids Bright.ttf"); 
+    src: url("fonts/ofont.ru_LucidsBright.ttf"); 
 }
 
 .container {
