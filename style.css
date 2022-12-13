@@ -669,6 +669,11 @@ input::placeholder {
     min-width: 270px;
 }
 
+.ov-scroll{
+	overflow-y: auto;
+	-webkit-overflow-scrolling:touch;
+}
+
 @media(max-width: 1410px) {
     .nav2 {
         flex-direction: column;
