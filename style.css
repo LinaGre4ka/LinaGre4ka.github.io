@@ -243,6 +243,10 @@ ul li {
     list-style-type: none;
 }
 
+ul li {
+    transition-duration: 250ms;
+}
+
 ul li:hover {
     color: #FF6155;
 }
@@ -567,9 +571,17 @@ h1 {
     padding-right: 74px;
 }
 
+.button1, .button3, .button4, .button6 {
+    transition-duration: 250ms;
+}
+
 .button1:hover, .button3:hover, .button4:hover, .button6:hover {
     box-shadow: -15px -15px 20px -7px rgba(123, 123, 123, 0.6);
 } 
+
+.button2 {
+    transition-duration: 250ms;
+}
 
 .button2:hover {
     box-shadow: 15px -15px 20px -7px rgba(123, 123, 123, 0.6);
@@ -644,6 +656,10 @@ input {
 
 input::placeholder {
     color: #181817;
+}
+
+.nav17 .p8 {
+    transition-duration: 250ms;
 }
 
 .nav17 .p8:hover {
