@@ -235,7 +235,7 @@
 .marquee {
     width: 50%;
     white-space: nowrap;
-    animation: marquee 2s infinite linear;
+    animation: marquee 3.5s infinite linear;
 }
 
 @keyframes marquee {
