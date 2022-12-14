@@ -564,6 +564,10 @@ h1 {
     border-radius: 0px 15px 15px 0px;
 }
 
+.div3:hover, .div4:hover {
+    transform: scale(1.5, 1.5);
+}
+
 .button5 span {
     font-family: DMSans_B;
     font-weight: 700;
