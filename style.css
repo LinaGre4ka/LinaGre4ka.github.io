@@ -565,6 +565,10 @@ h1 {
 }
 
 .div3:hover, .div4:hover {
+    transition-duration: 100ms;
+}
+
+.div3:hover, .div4:hover {
     transform: scale(1.5, 1.5);
 }
 
